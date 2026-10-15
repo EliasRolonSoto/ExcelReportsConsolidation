@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Reports Consolidation",
+  "ProjectType": "Process",
+  "Description": "First process with Excel",
+  "MainFile": "Main.xaml"
+}
